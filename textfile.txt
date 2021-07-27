@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - DELHI  || 27 Jul 2021 | 06:46:29 AM
+ ------------------------------------------------------------- 
+Current temperature is: 29.0400 deg C
+Current weather desc  :,mist 
+Current Humidity      :,89,% 
+Current  speed of wind   :,3.09,kmph 
+====================================================
